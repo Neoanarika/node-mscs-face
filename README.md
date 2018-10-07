@@ -1,4 +1,4 @@
-# node-mscs-face
+# [Archived] node-mscs-face
 A javascript wrapper for Microsoft Cognitive Services' Face API.
 
 This module is not affiliated to Microsoft in any way.
